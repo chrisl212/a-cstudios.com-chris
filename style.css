@@ -1,6 +1,6 @@
-h1 {
-	display:inline-block;
-	font-family:Arial;
+html {
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:#393939;
 }
 
 a {
@@ -8,11 +8,30 @@ a {
 }
 
 p {
-	font-family:Arial;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:#606060;
+}
+
+#content a {
+	color:#0099CC;
+}
+
+#content a:hover {
+	color:#006699;
 }
 
 #header h1 {
-	margin-left:5%;
+	display:inline-block;
+	margin-left:1.5%;
+}
+
+#header img {
+	display:inline-block;
+	width:60px;
+	height:60px;
+	border-radius:30px;
+	vertical-align:middle;
+	margin-left:2.5%;
 }
 
 #header hr {
@@ -38,7 +57,7 @@ p {
 	font-size:12px;
 	line-height:32px;
 	padding:0 15px;
-	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 #header ul li {
