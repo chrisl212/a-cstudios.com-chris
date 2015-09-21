@@ -1,0 +1,6 @@
+{
+	"name" : "myDownload",
+	"desc" : "myDownload is a fast and customizable download manager that features support for multiple concurrent downloads and has an expansive file manager that can play music, edit pictures, edit text files, and much more. myDownload allows for the saving of file references to iCloud, from which they can be re-downloaded at the user's request. Among the file manager's capabilities are the following:<br /><br />- Playback of audio files and the editing of their properties<br />- Video playback<br />- Image viewing and editing<br />- Text viewing and editing<br />- PDF viewing<br />- Rich text viewing and editing<br />- Compression/decompression of multiple file formats<br /><br />These are featured in combination with a fast and modern web browser which can be used to quickly find and download many files. The colors used in the app are all customizable, in addition to the display and layout of the file manager being customizable.",
+	"itunes" : "https://itunes.apple.com/us/app/mydownload/id814851637?ls=1&mt=8",
+	"github" : "https://github.com/chrisl212/DownloadManager"
+}
