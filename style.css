@@ -12,12 +12,30 @@ p {
 	color:#606060;
 }
 
+hr {
+	background-color:#E4E3E7;
+	height:2px;
+	border:0px;
+	width:100%;
+}
+
 #content a {
 	color:#0099CC;
 }
 
 #content a:hover {
 	color:#006699;
+}
+
+#content img {
+	display:inline-block;
+}
+
+#content p.appDescription  {
+	float:right; 
+	display:inline-block; 
+	text-align:left; 
+	width:60%;
 }
 
 #header h1 {
@@ -32,12 +50,6 @@ p {
 	border-radius:30px;
 	vertical-align:middle;
 	margin-left:2.5%;
-}
-
-#header hr {
-	background-color:#E4E3E7;
-	height:2px;
-	border:0px;
 }
 
 #header ul {
